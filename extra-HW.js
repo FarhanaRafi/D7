@@ -52,15 +52,6 @@ let average = ((maths + science)/2);
 
 console.log("Average of two subjects:" , average);
 
-console.log("\n-----------EXERCISE 4----------")
-
-/*EX 4
- Create three variables and assign a numerical value to each one of them. 
- Using a conditional statement, write a piece of code for sorting their values from highest to lowest.
- Display the result in the console.
-*/
-
-
 
 console.log("\n-----------EXERCISE 6----------")
 
