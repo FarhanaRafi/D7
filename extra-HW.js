@@ -52,8 +52,7 @@ let average = ((maths + science)/2);
 
 console.log("Average of two subjects:" , average);
 
-
-console.log("\n-----------EXERCISE 6----------")
+console.log("\n-----------EXERCISE 6----------");
 
 /*EX 6
  Write a piece of code for finding the longest of two given strings.
