@@ -135,7 +135,7 @@ console.log("\n-----------EXERCISE 9----------")
 */
  let num1 = 56
 
- if (num1 % 2 ===0){
+ if (num1 % 2 ===1){
     console.log("True");
  }else {
     console.log("False");
