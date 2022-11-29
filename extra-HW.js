@@ -7,7 +7,7 @@ console.log("\n-----------EXERCISE 1----------")
 */
 
 let gender = "female";
-let isMale = "male";
+let isMale = true;
 if (gender === isMale){
     console.log("It is Male!")
 }else{
